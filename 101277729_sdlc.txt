@@ -3,3 +3,8 @@ When applied correctly, it has a set of processes that can:
 1.Reducing IT overhead drastically
 2.Implement best security practices
 3.Remove mundane as well as complex manual tasks
+Right at home, a DevOps architect will cross team up with many individuals in various positions. 
+A designer can work independently and make progress toward working on the experience of item clients, 
+alongside the general advancement process.
+An engineer helps optimize the environment they are working in. 
+Be it – financially, increasing overall productivity, automating a task or solving a technical problem.
