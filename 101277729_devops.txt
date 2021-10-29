@@ -4,3 +4,4 @@ When applied correctly, it has a set of processes that can:
 1.Reducing IT overhead drastically
 2.Implement best security practices
 3.Remove mundane as well as complex manual tasks
+4.Collaboration and communication among teams are improved
