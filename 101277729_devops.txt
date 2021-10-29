@@ -6,3 +6,5 @@ When applied correctly, it has a set of processes that can:
 3.Remove mundane as well as complex manual tasks
 In this course, students will gain hands-on experience by implementing tried, tested and true DevOps techniques. 
 The goal is to better prepare professionals entering into the IT field.
+The class will examine how companies have used DevOps strategies either to save or lose money.
+By studying Amazon Web Services, Ansible, Docker, and Travis CI, you will learn end-to-end deployment processes.
