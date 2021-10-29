@@ -3,3 +3,4 @@ DevOps culture brings the cohesion of autonomous teams to fast paced, high-deman
 When applied correctly, it has a set of processes that can:
 1.Reducing IT overhead drastically
 2.Implement best security practices
+3.Remove mundane as well as complex manual tasks
