@@ -1,0 +1,21 @@
+Course Description
+
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
+workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
+available and implement hands-on work using industry standard toolkit. Create solution to complex business
+problem by adhering to the core responsibilities of DevOps.
+
+Essential Employability Skills
+
+This course contributes to your program by helping you achieve the following Essential Employability Skills:
+EES 1 COMMUNICATION: Communicate clearly, concisely and correctly in the written, spoken and visual
+form that fulfills the purpose and meets the needs of the audience. (T, P, E,)
+EES 2 COMMUNICATION: Respond to written, spoken or visual messages in a manner that ensures
+effective communication. (T, P, E,)
+EES 3 NUMERACY: Execute mathematical operations accurately. (T, P, E,)
+EES 4 CRITICAL THINKING & PROBLEM SOLVING: Apply a systematic approach to solve problems. (T,
+P, E,)
+EES 5 CRITICAL THINKING & PROBLEM SOLVING: Use a variety of thinking skills to anticipate and
+solve problems. (T, P, E,)
+EES 6 INFORMATION MANAGEMENT: Analyze, evaluate and apply relevant information from a variety
+of sources. (T, E,)
