@@ -1,0 +1,8 @@
+We can say that the software life cycle (Software Development
+ Life Cycle SDLC) is the name given to all the stages that the 
+ software goes through to develop the ongoing software in both 
+ production and customer use processes. Since user needs and product
+  errors arise from time to time in this process, the process is never
+   one-sided, but becomes a cycle where feedback is made, problems are 
+   solved through repetitions, or new features are acquired. Thanks to these
+    cycles, the development of the software becomes more comfortable and planned. 
