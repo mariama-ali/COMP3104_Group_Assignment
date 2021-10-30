@@ -1,0 +1,53 @@
+Course Description
+
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer brings to a
+workplace environment to increase productivity. Analyze and evaluate various developer operation implementation
+available and implement hands-on work using industry standard toolkit. Create solution to complex business
+problem by adhering to the core responsibilities of DevOps.
+
+Essential Employability Skills
+
+This course contributes to your program by helping you achieve the following Essential Employability Skills:
+EES 1 COMMUNICATION: Communicate clearly, concisely and correctly in the written, spoken and visual
+form that fulfills the purpose and meets the needs of the audience. (T, P, E,)
+EES 2 COMMUNICATION: Respond to written, spoken or visual messages in a manner that ensures
+effective communication. (T, P, E,)
+EES 3 NUMERACY: Execute mathematical operations accurately. (T, P, E,)
+EES 4 CRITICAL THINKING & PROBLEM SOLVING: Apply a systematic approach to solve problems. (T,
+P, E,)
+EES 5 CRITICAL THINKING & PROBLEM SOLVING: Use a variety of thinking skills to anticipate and
+solve problems. (T, P, E,)
+EES 6 INFORMATION MANAGEMENT: Analyze, evaluate and apply relevant information from a variety
+of sources. (T, E,)
+
+Cultural change
+
+DevOps initiatives can create cultural changes in companies[16] by transforming the way operations, developers, and testers collaborate during the development and delivery processes.[1] Getting these groups to work cohesively is a critical challenge in enterprise DevOps adoption.[17][18] DevOps is as much about culture, as it is about the toolchain.[19]
+Building a DevOps culture
+
+Organizational culture is a strong predictor of IT and organizational performance. Cultural practices such as information flow, collaboration, shared responsibilities, learning from failures and new ideas are central to DevOps. Team-building and other employee engagement activities are often used to create an environment that fosters this communication and cultural change within an organization. DevOps as a service approach allows developers and operations teams to take greater control of their applications and infrastructure without hindering speed. It also transfers the onus of owning a problem on to the development team, making them much more careful in their stride.
+
+The 2015 State of DevOps Report discovered that the top seven measures with the strongest correlation to organizational culture are:
+
+    Organizational investment
+    Team leaders' experience and effectiveness
+    Continuous delivery
+    The ability of different disciplines (development, operations, and infosec) to achieve win-win outcomes
+    Organizational performance
+    Deployment pain
+    Lean management practices
+
+Deployment
+
+Companies with very frequent releases may require knowledge on DevOps.[citation needed] For example, the company that operates image hosting website Flickr developed a DevOps approach to support ten deployments a day. Daily deployment cycles would be much higher at organizations producing multi-focus or multi-function applications.[citation needed] Daily deployment is referred to as continuous deployment
+Architecturally significant requirements
+
+To practice DevOps effectively, software applications have to meet a set of architecturally significant requirements (ASRs), such as: deployability, modifiability, testability, and monitor-ability.
+Microservices
+
+Although in principle it is possible to practice DevOps with any architectural style, the microservices architectural style is becoming the standard for building continuously deployed systems. Small size service allows the architecture of an individual service to emerge through continuous refactoring,[20].
+DevOps automation
+
+It also supports consistency, reliability, and efficiency within the organization, and is usually enabled by a shared code repository or version control. As DevOps researcher Ravi Teja Yarlagadda hypothesizes, "Through DevOps, there is an assumption that all functions can be carried out, controlled, and managed in a central place using a simple code."[21]
+Automation with version control
+Many organizations use version control to power DevOps automation technologies like virtual machines, containerization (or OS-level virtualization), and CI/CD. The paper DevOps: development of a toolchain in the banking domain notes that with teams of developers working on the same project, "All developers need to make changes to the same codebase and sometimes edit even the same files. For efficient working, there has to be a system that helps engineers avoid conflicts and retain the codebase history,"[22] with the Git version control system and the GitHub platform referenced as examples. 
