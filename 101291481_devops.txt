@@ -1,0 +1,8 @@
+DevOps, a component of development (Dev) and operations (Ops),
+is a collection of people, processes, and technologies that come together to deliver value to customers on an ongoing basis.
+DevOps is the two basic units (Developers and Operations), Developers (Software Developers, 
+Software Testers, etc.), Operations (System Architecture and Infrastructure Teams, 
+Security and Networking teams, etc.) working together in effective communication within the 
+Information Technologies department. We can actually consider.DevOps as a philosophy, approach,
+ or perspective. 
+It is like Scrum, Agile, Kanban, and other methods that software developers are used to...

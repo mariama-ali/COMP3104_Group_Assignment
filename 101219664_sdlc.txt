@@ -1,0 +1,4 @@
+DevOps is a set of practices that combines software development and IT operations
+The learning of DevOps helps in reducing the time for cycles of development and also ensures a faster rate of innovation
+DevOps describes a culture and set of processes that bring development and operations teams together to complete software development
+learning devops is really important becuase it is highly needed for programmer becuase github is what we are going to work and share pur code on
