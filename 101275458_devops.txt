@@ -1,0 +1,5 @@
+# This file will contain information about COMP 3104 DevOps course
+The course is designed to help IT students understand how DevOps technologies boost an organization’s ability to deliver application and services. 
+The course contents will familiarize students with the DevOps tool, practices, and strategies. 
+By the end of this course students are expected to have a good understanding of the business value of DevOps and its end-to-end deployment processes. 
+Students in this course are required to attend lectures, quizzes, and lab exercises in addition to Midterm and Final term exams. 
