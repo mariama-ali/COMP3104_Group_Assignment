@@ -5,3 +5,7 @@ DevOps allows IT professionals to shorten production cycle, maintain good collab
 Through Devops, teams can track the entire deployment cycle, address deployment fails better, and make recovery faster.
 DevOps engineers can improve the CI/CD pipeline, cloud infrastructure and configuration.
 Add more contents
+Add more contents
+Add more contents... Needed
+ Thanks to these
+    cycles, the development of the software becomes more comfortable and planned. 
