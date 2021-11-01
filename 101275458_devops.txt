@@ -4,3 +4,6 @@ The course contents will familiarize students with the DevOps tool, practices, a
 By the end of this course students are expected to have a good understanding of the business value of DevOps and its end-to-end deployment processes. 
 Students in this course are required to attend lectures, quizzes, and lab exercises in addition to Midterm and Final term exams. 
 Add more contents
+Information Technologies department. We can actually consider.DevOps as a philosophy, approach,
+ or perspective. 
+It is like Scrum, Agile, Kanban, and other methods that software developers are used to...
